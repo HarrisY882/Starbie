@@ -13,12 +13,11 @@
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
 | [XIAO EPS32-C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) | microcontroller esp | 1 | $4.90 | $4.90 | [seeed](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
-| [0.96 inch 128x64 I2C OLED Display Module, SSD1306 Driver](https://electropeak.com/0-96-inch-i2c-oled-display-module-ssd1306) | screen | 1 | $0.97 | $0.97 | [electro peak](https://electropeak.com/0-96-inch-i2c-oled-display-module-ssd1306) |
 | [DHT11 Temperature Humidity Sensor Module](https://electropeak.com/temprature-sensor-dht11-dfrobot-1) | sensor | 1 | $0.51 | $0.51 | [electro peak](https://electropeak.com/temprature-sensor-dht11-dfrobot-1) |
 | [Cherry MX Red Switch (5 Pin) Sample](https://mechbox.co.uk/checkouts/cn/hWNHlf90qIcQHYWPU6LUo96x/en-gb?_r=AQABVbZHqOU-qubFG7mbHPmj-z6kPPpwOBAJG8-mvDQhn8enKNRE&auto_redirect=false&edge_redirect=true&skip_shop_pay=true) | SWITCH | 2 | $1.98 | $3.96 | [mechbox](https://mechbox.co.uk/checkouts/cn/hWNHlf90qIcQHYWPU6LUo96x/en-gb?_r=AQABVbZHqOU-qubFG7mbHPmj-z6kPPpwOBAJG8-mvDQhn8enKNRE&auto_redirect=false&edge_redirect=true&skip_shop_pay=true) |
 | [MPU-6050](https://electropeak.com/gyro-accelerometer-gy521-mpu6050) | Balance sensor | 1 | $1.47 | $1.47 | [electropeak](https://electropeak.com/gyro-accelerometer-gy521-mpu6050) |
-| **Parts subtotal** | — | — | — | **$11.81** | — |
+| **Parts subtotal** | — | — | — | **$10.84** | — |
 | **Tax & shipping** | — | — | — | **$14.74** | — |
-| **Total** | — | — | — | **$26.55** | — |
+| **Total** | — | — | — | **$25.58** | — |
 
-$3.45 left of the tier's funding.
+$4.42 left of the tier's funding.
