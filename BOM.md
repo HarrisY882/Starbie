@@ -18,7 +18,7 @@
 | [Cherry MX Red Switch (5 Pin) Sample](https://mechbox.co.uk/checkouts/cn/hWNHlf90qIcQHYWPU6LUo96x/en-gb?_r=AQABVbZHqOU-qubFG7mbHPmj-z6kPPpwOBAJG8-mvDQhn8enKNRE&auto_redirect=false&edge_redirect=true&skip_shop_pay=true) | SWITCH | 2 | $1.98 | $3.96 | [mechbox](https://mechbox.co.uk/checkouts/cn/hWNHlf90qIcQHYWPU6LUo96x/en-gb?_r=AQABVbZHqOU-qubFG7mbHPmj-z6kPPpwOBAJG8-mvDQhn8enKNRE&auto_redirect=false&edge_redirect=true&skip_shop_pay=true) |
 | [MPU-6050](https://electropeak.com/gyro-accelerometer-gy521-mpu6050) | Balance sensor | 1 | $1.47 | $1.47 | [electropeak](https://electropeak.com/gyro-accelerometer-gy521-mpu6050) |
 | **Parts subtotal** | — | — | — | **$11.81** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$11.81** | — |
+| **Tax & shipping** | — | — | — | **$14.74** | — |
+| **Total** | — | — | — | **$26.55** | — |
 
-$18.19 left of the tier's funding.
+$3.45 left of the tier's funding.
