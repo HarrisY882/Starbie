@@ -16,7 +16,7 @@
 | [DHT11 Temperature Humidity Sensor Module](https://electropeak.com/temprature-sensor-dht11-dfrobot-1) | Sensor | 1 | $0.50 | $0.50 | [electropeak](https://electropeak.com/temprature-sensor-dht11-dfrobot-1) |
 | [https://electropeak.com/0-96-inch-i2c-oled-display-module-ssd1306](https://electropeak.com/0-96-inch-i2c-oled-display-module-ssd1306) | lcd screen | 1 | $0.96 | $0.96 | [electropeak](https://electropeak.com/0-96-inch-i2c-oled-display-module-ssd1306) |
 | **Parts subtotal** | — | — | — | **$6.36** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$6.36** | — |
+| **Tax & shipping** | — | — | — | **$14.00** | — |
+| **Total** | — | — | — | **$20.36** | — |
 
-$23.64 left of the tier's funding.
+$9.64 left of the tier's funding.
