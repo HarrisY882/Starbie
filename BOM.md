@@ -17,7 +17,7 @@
 | [https://electropeak.com/0-96-inch-i2c-oled-display-module-ssd1306](https://electropeak.com/0-96-inch-i2c-oled-display-module-ssd1306) | lcd screen | 1 | $0.96 | $0.96 | [electropeak](https://electropeak.com/0-96-inch-i2c-oled-display-module-ssd1306) |
 | [MPU6050](https://electropeak.com/gyro-accelerometer-gy521-mpu6050) | Sensor | 1 | $1.47 | $1.47 | [electropeak](https://electropeak.com/gyro-accelerometer-gy521-mpu6050) |
 | **Parts subtotal** | — | — | — | **$7.83** | — |
-| **Tax & shipping** | — | — | — | **$11.13** | — |
-| **Total** | — | — | — | **$18.96** | — |
+| **Tax & shipping** | — | — | — | **$17.13** | — |
+| **Total** | — | — | — | **$24.96** | — |
 
-$11.04 left of the tier's funding.
+$5.04 left of the tier's funding.
