@@ -13,4 +13,7 @@ Friday 9th October -12:04
 
 as you can see this is my pcb design, my only worry is the shape looks abit dodgy, but surely i can file it down, that is if it can be made.
 
+in the future i hope to be able to code more, something i stuggled with here, as i was mostly trying to understand the code, and didnt write much only a little.
+** I USED NO AI**
 
+thanks for reading.
