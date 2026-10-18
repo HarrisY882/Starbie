@@ -14,6 +14,24 @@ Friday 9th October -12:04
 as you can see this is my pcb design, my only worry is the shape looks abit dodgy, but surely i can file it down, that is if it can be made.
 
 in the future i hope to be able to code more, something i stuggled with here, as i was mostly trying to understand the code, and didnt write much only a little.
-** I USED NO AI**
 
+
+| Item                                        | Qty | Supplier     | Cost/item | Total Cost | Link                                                                                                    |
+| ------------------------------------------- | --- | ------------ | --------- | ---------- | ------------------------------------------------------------------------------------------------------- |
+| XIAO ESP32-C3                               | 1   | Seeed Studio | $4.90     | $4.90      | [Seeed Studio](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html?utm_source=chatgpt.com)       |
+| DHT11 Temperature & Humidity Sensor Module  | 1   | ElectroPeak  | $0.50     | $0.50      | [ElectroPeak](https://electropeak.com/temprature-sensor-dht11-dfrobot-1?utm_source=chatgpt.com)         |
+| 0.96-inch I²C OLED Display Module (SSD1306) | 1   | ElectroPeak  | $0.96     | $0.96      | [ElectroPeak](https://electropeak.com/0-96-inch-i2c-oled-display-module-ssd1306?utm_source=chatgpt.com) |
+| MPU6050 Gyroscope & Accelerometer           | 1   | ElectroPeak  | $1.47     | $1.47      | [ElectroPeak](https://electropeak.com/gyro-accelerometer-gy521-mpu6050?utm_source=chatgpt.com)          |
+| PCB                                         | 1   | PCBWay       | $5.00     | $5.00      | [PCBWay](https://www.pcbway.com/QuickOrderOnline.aspx?utm_source=chatgpt.com)                           |
+| Subtotal (Items)                            |     |              |           | $12.83     |                                                                                                         |
+| Estimated Shipping                          |     |              |           | $17.13     |                                                                                                         |
+| Grand Total (Items + Shipping)              |     |              |           | $29.96     |                                                                                                         |
+
+Cost summary
+
+- Total component and PCB cost: $12.83
+- Estimated shipping cost: $17.13
+- Total estimated cost: $29.96
+
+**i didnt use ai for the project the only place was creating the BOM table above,**
 thanks for reading.
