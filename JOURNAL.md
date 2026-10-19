@@ -59,7 +59,7 @@
 ![Screenshot 2026-10-08 at 17.49.10](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sU7lz0AUeRt9KbRktJSUgIbswkpODCwr/e85b237b27ea1daf7c9009d09c512dc70fc95cadc76a89f0f9c60f94cbffd048.png)
 
 6:18 - ran the drc, courtyard had 2 errors, wasnt filled
-6:38 - just spent 20 minutes trying to fix my courtyard to find out about "footprint editor" lmao, this was a great learning experience.
+6:38 - just spent 20 minutes trying to fix my courtyard to find out about "footprint editor" lmao
 
 ![Screenshot 2026-10-08 at 18.39.10](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sU7lz0AUeRt9KbRktJSUgIbswkpODCwr/f6a5386c284401ad087c998e159bc089355da0786e26b428faed608b92110ab0.png)
 The issue was it wasnt connected, now i have no errors, just warning
@@ -73,7 +73,7 @@ ive started working on the firmware, but then reading the guide, i need the part
 ![Screenshot 2026-10-08 at 23.10.42](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sU7lz0AUeRt9KbRktJSUgIbswkpODCwr/d546620709e8316225b3bbb483dbd5c22fd7f55cf8ca35f37ca3b463faa5e370.png)
 
 ![Screenshot 2026-10-08 at 23.10.50](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/sU7lz0AUeRt9KbRktJSUgIbswkpODCwr/1ad1a06879e637d80e0aed545155d8db36d96400cc26781ff02cb51e80f88f22.png)
-im trying to figure out where i should actually buy the parts from. After looking through multiple sources, electropeakj stood out to me as a reliable legitemate vendr, however i found the delivery costs to be hefty.
+im trying to figure out where i should actually buy the parts from.
 
 ### 2026-10-09 – i was working on finding components, i made my own BOM :
 
