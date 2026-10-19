@@ -33,5 +33,8 @@ Cost summary
 - Estimated shipping cost: $17.13
 - Total estimated cost: $29.96
 
+<img width="1294" height="862" alt="image" src="https://github.com/user-attachments/assets/c449736b-860b-4731-aeaf-08df5e9361e6" />
+this is a 3d render of my pcb showing how it would actually look when pcb is printed and where components would go.
+
 **i didnt use ai for the project the only place was creating the BOM table above,**
 thanks for reading.
